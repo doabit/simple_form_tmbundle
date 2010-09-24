@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${TM_RAILS_TEMPLATE_START_RUBY_INLINE}f.simple_fields_for :${1:attribute} do |${2:f}|${TM_RAILS_TEMPLATE_END_RUBY_INLINE}
+	$0
+${TM_RAILS_TEMPLATE_END_RUBY_BLOCK}</string>
+	<key>name</key>
+	<string>f.simple_fields_for</string>
+	<key>scope</key>
+	<string>text.html.ruby,text.haml</string>
+	<key>tabTrigger</key>
+	<string>sff</string>
+	<key>uuid</key>
+	<string>09374D7C-3891-46BB-B2D3-F4465DFBE9A3</string>
+</dict>
+</plist>

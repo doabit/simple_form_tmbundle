@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${TM_RAILS_TEMPLATE_START_RUBY_EXPR}f.association :${1:attribute}${TM_RAILS_TEMPLATE_END_RUBY_EXPR}
+</string>
+	<key>name</key>
+	<string>f. association</string>
+	<key>scope</key>
+	<string>text.html.ruby,text.haml</string>
+	<key>tabTrigger</key>
+	<string>ass</string>
+	<key>uuid</key>
+	<string>B6776E6E-752E-4A72-8DC0-947FC1BF3CE6</string>
+</dict>
+</plist>
