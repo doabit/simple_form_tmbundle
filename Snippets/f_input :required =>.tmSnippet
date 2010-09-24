@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>${TM_RAILS_TEMPLATE_START_RUBY_EXPR}f.button :${1:submit}${TM_RAILS_TEMPLATE_END_RUBY_EXPR}</string>
+	<string>${TM_RAILS_TEMPLATE_START_RUBY_EXPR}f.input :${1:attribute}, :required =&gt; ${4:false} ${TM_RAILS_TEMPLATE_END_RUBY_EXPR}</string>
 	<key>name</key>
-	<string>f.button</string>
+	<string>f.input :required =&gt;</string>
 	<key>scope</key>
 	<string>text.html.ruby,text.haml</string>
 	<key>tabTrigger</key>
-	<string>but</string>
+	<string>inpr</string>
 	<key>uuid</key>
-	<string>B61031BA-292D-4979-9120-176AB556DD0C</string>
+	<string>558441B6-6BA8-4E78-8F17-6E19E25ABC18</string>
 </dict>
 </plist>

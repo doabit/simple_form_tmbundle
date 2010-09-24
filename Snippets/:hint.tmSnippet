@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>:hint =&gt; '$1'$0</string>
+	<string>:hint =&gt; '$1'</string>
 	<key>name</key>
 	<string>:hint</string>
 	<key>scope</key>

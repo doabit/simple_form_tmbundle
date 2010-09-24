@@ -2,8 +2,57 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>mainMenu</key>
+	<dict>
+		<key>items</key>
+		<array>
+			<string>CE7D76FC-AF47-4978-8EF4-D99CAC8499C7</string>
+			<string>3B88B43F-0D12-43F4-B18B-807987997486</string>
+			<string>B6776E6E-752E-4A72-8DC0-947FC1BF3CE6</string>
+			<string>B61031BA-292D-4979-9120-176AB556DD0C</string>
+			<string>C8FCA9BC-E84D-419E-A44E-B4437C7F9F7C</string>
+			<string>AF040894-F0EA-4355-879A-C3470804E131</string>
+			<string>09374D7C-3891-46BB-B2D3-F4465DFBE9A3</string>
+		</array>
+		<key>submenus</key>
+		<dict>
+			<key>3B88B43F-0D12-43F4-B18B-807987997486</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>1DAE3E93-0E21-4B1B-9518-637330100D1A</string>
+					<string>AF7D46A1-5F97-462A-BE49-C8E78FF7B35C</string>
+					<string>51DC6CF6-BDA1-4A8D-85C7-F72DEDAEF637</string>
+					<string>558441B6-6BA8-4E78-8F17-6E19E25ABC18</string>
+					<string>6D41AE83-928F-4F51-A912-E39E41CEC020</string>
+					<string>3B13D7D2-1D1A-4839-B4E9-C152DE898F7C</string>
+					<string>31183F6D-202E-4B9E-AE3E-913264CB0D0F</string>
+					<string>362456E6-E4D8-4151-8851-B3EAB9A4560A</string>
+				</array>
+				<key>name</key>
+				<string>inputs</string>
+			</dict>
+		</dict>
+	</dict>
 	<key>name</key>
 	<string>Simple Form</string>
+	<key>ordering</key>
+	<array>
+		<string>3B13D7D2-1D1A-4839-B4E9-C152DE898F7C</string>
+		<string>6D41AE83-928F-4F51-A912-E39E41CEC020</string>
+		<string>B6776E6E-752E-4A72-8DC0-947FC1BF3CE6</string>
+		<string>B61031BA-292D-4979-9120-176AB556DD0C</string>
+		<string>1DAE3E93-0E21-4B1B-9518-637330100D1A</string>
+		<string>AF7D46A1-5F97-462A-BE49-C8E78FF7B35C</string>
+		<string>51DC6CF6-BDA1-4A8D-85C7-F72DEDAEF637</string>
+		<string>31183F6D-202E-4B9E-AE3E-913264CB0D0F</string>
+		<string>558441B6-6BA8-4E78-8F17-6E19E25ABC18</string>
+		<string>09374D7C-3891-46BB-B2D3-F4465DFBE9A3</string>
+		<string>CE7D76FC-AF47-4978-8EF4-D99CAC8499C7</string>
+		<string>362456E6-E4D8-4151-8851-B3EAB9A4560A</string>
+		<string>AF040894-F0EA-4355-879A-C3470804E131</string>
+		<string>C8FCA9BC-E84D-419E-A44E-B4437C7F9F7C</string>
+	</array>
 	<key>uuid</key>
 	<string>86716F30-D818-420B-B510-935B72AD2BFE</string>
 </dict>

@@ -6,7 +6,7 @@
 	<string>${TM_RAILS_TEMPLATE_START_RUBY_EXPR}f.association :${1:attribute}${TM_RAILS_TEMPLATE_END_RUBY_EXPR}
 </string>
 	<key>name</key>
-	<string>f. association</string>
+	<string>f.association</string>
 	<key>scope</key>
 	<string>text.html.ruby,text.haml</string>
 	<key>tabTrigger</key>
